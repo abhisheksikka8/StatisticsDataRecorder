@@ -1,0 +1,16 @@
+com\hellofresh\statistics\entity\StatisticData$StatisticDataBuilder.class
+com\hellofresh\statistics\repository\StatisticsDataRepository.class
+com\hellofresh\statistics\builder\StatisticsDataResponseBuilder.class
+com\hellofresh\statistics\request\EventData.class
+com\hellofresh\statistics\constants\StatisticsEventProcessingStatus.class
+com\hellofresh\statistics\service\impl\StatisticsDataServiceImpl.class
+com\hellofresh\statistics\helper\CSVHelper.class
+com\hellofresh\statistics\response\StatisticsDataResponse.class
+com\hellofresh\statistics\predicates\StatisticsPredicates.class
+com\hellofresh\statistics\StatisticsDataRecorderApplication.class
+com\hellofresh\statistics\provider\StatisticsDataProvider.class
+com\hellofresh\statistics\functions\StatisticsFunctions.class
+com\hellofresh\statistics\entity\StatisticData.class
+com\hellofresh\statistics\exception\StatisticEventException.class
+com\hellofresh\statistics\service\StatisticsDataService.class
+com\hellofresh\statistics\controller\StatisticsController.class
